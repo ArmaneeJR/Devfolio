@@ -6,11 +6,6 @@ A simple portfolio website
 
 ## [Demo Link](https://armaneecreation.netlify.app) 🔗
 
-<div align="center">
-  <img src="https://i.postimg.cc/CxZXqhWM/ezgif-com-video-to-gif-1.gif" alt="Devfolio Demo" width="100%" />
-  <br>
-</div>
-
 <br/>
 <br/>
 
